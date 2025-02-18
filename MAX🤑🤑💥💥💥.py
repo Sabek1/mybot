@@ -12,7 +12,7 @@ import time
 import threading
 import sys
 
-TOKEN = '8059636724:AAEmMI1EjMqqv3L4rO-h0We0W2k252AhSp4'  # توكنك
+TOKEN = '8059636724:AAp4'  # توكنك
 ADMIN_ID = 7517767766  # ايديك
 channel = '@freenet9904'  # يوزر قناتك هنا مش الرابط
 
