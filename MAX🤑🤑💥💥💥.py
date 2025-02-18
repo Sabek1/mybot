@@ -12,7 +12,8 @@ import time
 import threading
 import sys
 
-TOKEN = '8059636724:AAp4'  # توكنك
+
+TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = 7517767766  # ايديك
 channel = '@freenet9904'  # يوزر قناتك هنا مش الرابط
 
